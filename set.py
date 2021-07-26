@@ -21,6 +21,7 @@ print(s)
 
 help(set)
 
+
 # how to use set
 my_friends = {'A', 'B', 'C'}
 A_friends = {'B', 'D', 'E', 'F'}
